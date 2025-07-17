@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+temp/
+*.jpg
+*.png
+*.pdf
+.venv
+*.venv
+.venv/
