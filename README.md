@@ -47,8 +47,8 @@ data/ → Sample images
 ### 1. Clone this repo
 
 ```bash
-git clone https://github.com/your-username/smart-doc-ocr.git
-cd smart-doc-ocr
+git clone https://github.com/AzamBaltistani/smart_doc_ocr.git
+cd smart_doc_ocr
 ```
 
 ### 2. Install dependencies
